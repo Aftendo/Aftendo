@@ -27,3 +27,7 @@ And we also have a cool Discord community (you should totally join)!
 		<img src="https://discordapp.com/api/guilds/945707097918701658/widget.png?style=banner2">
 	</a>
 </p>
+
+### Credits
+
+Props to le_type_retro on Discord for the well-made Aftendo logo. Hi, man :)
