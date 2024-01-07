@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Aftendo/Aftendo/raw/main/aftendo_cut.png">
+<p align="center"><img align="center" src="https://github.com/Aftendo/Aftendo/raw/main/aftendo_cut.png"></p>
 <h1 align="center">Aftendo</h1>
 <p align="center"><b>Doing what Nintendon't.</b></p>
 
